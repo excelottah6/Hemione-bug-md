@@ -18,7 +18,7 @@ let afk = require("./lib/afk");
 const { addPremiumUser, getPremiumPosition, expiredCheck, checkPremiumUser } = require('./lib/premiun')
 const { fetchBuffer } = require("./lib/myfunc2")
 
-//bug database
+//bug databas
 const { xeontext1 } = require('./69/xeontext1')
 const { xeontext2 } = require('./69/xeontext2')
 const { xeontext3 } = require('./69/xeontext3')
